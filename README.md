@@ -1,4 +1,4 @@
-## What's up, I'm your friendly neighborhood Technoking!
+## What's up!
 
 <!---[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 <!---[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
@@ -6,8 +6,8 @@
 
 ### I'm an Entrepreneur and a Gym rat 😉
 
-- 🌱 I’m currently working on the Trivergence, i.e, AI, BLockchain, Robotics(Automation)
-- 🥅 2022 Goals: Complete the 5 Startup Projects!
+- 🌱 I’m currently working on the Trivergence, i.e, AI, Startups, Fitness
+- 🥅 2022 Goals: Complete the Startup Project!
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I make cocktails and I have a six pack :)
 
@@ -24,9 +24,9 @@
 
 ---
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[website]: https://start-man.com
+[course]: 
+[twitter]: 
+[youtube]: 
 [instagram]: https://www.instagram.com/neuromancer024/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
