@@ -4,12 +4,12 @@
 <!---[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
 
-### I'm an Entrepreneur and a Gym rat 😉
+### I like Squats and I like Startups 😉
 
-- 🌱 I’m currently working on the Trivergence, i.e, AI, Startups, Fitness
-- 🥅 2022 Goals: Complete the Startup Project!
+- 🌱 I’m currently working on my startup squatsandstartups.com
+- 🥅 2022 Goals: Complete the first product.
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I make cocktails and I have a six pack :)
+- ⚡ Fun fact: I make cocktails.
 
 ### Connect with me:
 
