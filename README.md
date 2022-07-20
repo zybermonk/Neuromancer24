@@ -25,8 +25,5 @@
 ---
 
 [website]: https://squatsandstartups.com
-[course]: 
-[twitter]: 
-[youtube]: 
 [instagram]: https://www.instagram.com/neuromancer024/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
