@@ -19,6 +19,6 @@ A professional AI researcher with very good entrepreneurial skills. Proficient i
 
 ---
 
-[website]: https://squatsandstartups.com
+[website]: https://neuromancer24.github.io/mohan.github.com/
 [instagram]: https://www.instagram.com/neuromancer024/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
