@@ -12,14 +12,15 @@ I build and work with AI models for businesses and like to conduct comprehensive
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 <br />
 
 ### 📕 Latest Blog Posts
-Coming soon...
+#### Coming soon...
 ---
 
 [website]: https://neuromancer24.github.io/
-[instagram]: https://www.instagram.com/neuromancer024/
+[instagram]: https://www.instagram.com/zybermonk/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
+[twitter]: https://twitter.com/zybermonk/
