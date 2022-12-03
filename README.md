@@ -17,7 +17,7 @@ I build and work with AI models for businesses and like to conduct comprehensive
 <br />
 
 ### 📕 Latest Blog Posts
-
+Coming soon...
 ---
 
 [website]: https://neuromancer24.github.io/
