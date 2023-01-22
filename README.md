@@ -17,10 +17,10 @@ I build and work with AI models for businesses and like to conduct comprehensive
 <br />
 
 ### 📕 Latest Blog Posts
-#### Coming soon...
+https://rss.beehiiv.com/feeds/b2L7MYFaDz.xml
 ---
 
-[website]: https://neuromancer24.github.io/
+[website]: https://zybermonk.github.io/
 [instagram]: https://www.instagram.com/zybermonk/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
 [twitter]: https://twitter.com/zybermonk/
