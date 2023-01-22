@@ -1,5 +1,6 @@
-name: Update readme with blog posts
-on: 
+name: Update this repo's README
+
+on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
@@ -12,9 +13,3 @@ jobs:
         with:
           feed-url: https://rss.beehiiv.com/feeds/b2L7MYFaDz.xml
           readme-section: feed
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
-
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://rss.beehiiv.com/feeds/b2L7MYFaDz.xml
-          readme-section: notes
