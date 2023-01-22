@@ -17,7 +17,8 @@ I build and work with AI models for businesses and like to conduct comprehensive
 <br />
 
 ### 📕 Latest Blog Posts
-https://rss.beehiiv.com/feeds/b2L7MYFaDz.xml
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 ---
 
 [website]: https://zybermonk.github.io/
