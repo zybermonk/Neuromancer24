@@ -18,6 +18,8 @@ I build and work with AI models for businesses and like to conduct comprehensive
 
 ### 📕 Latest Blog Posts
 <!--START_SECTION:feed-->
+* [Unlocking your hidden leverage](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;02)
+* [Coding is the new math](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;01)
 <!--END_SECTION:feed-->
 ---
 
