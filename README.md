@@ -3,10 +3,12 @@
 <!---[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 <!---[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-I build and work with AI models for businesses and like to conduct comprehensive research on AI, neuroscience, and economics. My goal is to find satisfying solutions to life's metaphysical concerns, but I recognize that this is a difficult endeavor. Meanwhile, I strive to contribute to humanity's comprehension of human-computer interaction, to observe the boundary conditions of the human experience, and to live life to the maximum entropy.
+I live in Europe, originally from India. Currently, I am in the pursuit of my Ph.D in Deep Learning. I will be working on visual perception, simulation, prediction and planning for autnomous machines. 
 
-- I studied engineering at [PES University](https://pes.edu/) and business at the [University of Limerick](https://www.ul.ie/).
-- Previously, I have worked as a gym instructor and I have held artificial intelligence and data-related roles at [Altada](https://www.altada.com/) and [StatsPerform](https://www.statsperform.com/)
+My goal is to find satisfying solutions to life's metaphysical concerns, but I recognize that this is a difficult endeavor. Meanwhile, my goal is to contribute to humanity's comprehension of the aforementioned questions, to observe the boundary conditions of the human experience, and to live a life to the maximum entropy.
+
+- I studied Engineering at [PES University](https://pes.edu/) and Business at the University of Limerick's, [Kemmy Business School](https://www.ul.ie/business). 
+- Previously, I have worked as a gym instructor and  I have held artificial intelligence and data related roles at [Altada](https://www.altada.com/) and [StatsPerform](https://www.statsperform.com/) 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
