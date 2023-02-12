@@ -20,6 +20,7 @@ My goal is to find satisfying solutions to life's metaphysical concerns, but I r
 
 ### 📕 Latest Blog Posts
 <!--START_SECTION:feed-->
+* [Become a kid again!](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;03)
 * [Unlocking your hidden leverage](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;02)
 * [Coding is the new math](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;01)
 <!--END_SECTION:feed-->
