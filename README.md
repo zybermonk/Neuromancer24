@@ -3,7 +3,7 @@
 <!---[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
 <!---[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-I live in Munich, originally from India. I work as a Researcher at [Hochschule München](https://www.hm.edu/sites/iamlis/). Currently, I am in the pursuit of my Ph.D in Deep Learning. I will be working on simulation and artificial intelligence for autnomous machines. 
+I live in Munich, originally from India. I work as a Researcher at [Hochschule München](https://www.hm.edu/sites/iamlis/). Currently, I am in the pursuit of my Ph.D in Deep Learning. I will be working on simulation and artificial intelligence for autonomous machines. 
 
 My goal is to find satisfying solutions to life's metaphysical concerns, but I recognize that this is a difficult endeavor. Meanwhile, my goal is to contribute to humanity's comprehension of the aforementioned questions, to observe the boundary conditions of the human experience, and to live a life to the maximum entropy.
 
