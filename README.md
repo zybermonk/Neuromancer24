@@ -26,7 +26,6 @@ My goal is to find satisfying solutions to life's metaphysical concerns, but I r
 <!--END_SECTION:feed-->
 ---
 
-[website]: https://zybermonk.github.io/
 [instagram]: https://www.instagram.com/zybermonk/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
 [twitter]: https://twitter.com/zybermonk/
