@@ -5,21 +5,18 @@ My goal is to find satisfying solutions to life's metaphysical concerns, but I r
 
 - I studied Engineering at [PES University](https://pes.edu/) and Business at the University of Limerick's, [Kemmy Business School](https://www.ul.ie/business). 
 - Previously, I have worked as a gym instructor and  I have held artificial intelligence and data related roles at [Altada](https://www.altada.com/) and [StatsPerform](https://www.statsperform.com/) 
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />][website]
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-<!--START_SECTION:feed-->
-* [Become a kid again!](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;03)
-* [Unlocking your hidden leverage](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;02)
-* [Coding is the new math](https:&#x2F;&#x2F;epoch.beehiiv.com&#x2F;p&#x2F;01)
-<!--END_SECTION:feed-->
 ---
 [instagram]: https://www.instagram.com/zybermonk/
 [linkedin]: https://www.linkedin.com/in/mohanramesh/
 [twitter]: https://twitter.com/zybermonk/
+[website]: https://zybermonk.github.io
